@@ -1,0 +1,3 @@
+College=ADITYA
+E.no=046
+Name=Tanishq
